@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1u7k93wZZaIgZHf-pT-5oYW4nMBxJ-2zS
 """
 
-import spacy
-nlp = spacy.blank('ur')
 
 import csv
 from google.colab import drive
